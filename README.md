@@ -1,5 +1,5 @@
-**Configured Microsoft Defender Firewall for System Protection against Threats  **
-his repository documents the deployment and optimization of Microsoft Defender Firewall to safeguard a network of over 2,500 workstations. It showcases the strategic implementation of firewall rules, monitoring features, and stringent port control protocols that resulted in a 95% reduction in malicious intrusions.
+Configured Microsoft Defender Firewall for System Protection against Threats  
+This repository documents the deployment and optimization of Microsoft Defender Firewall to safeguard a network of over 2,500 workstations. It showcases the strategic implementation of firewall rules, monitoring features, and stringent port control protocols that resulted in a 95% reduction in malicious intrusions.
 
 ## Key Features:
 - **Rule Management**: Detailed guidelines on creating effective firewall rules.
